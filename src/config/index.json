@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "PAN CASERO Y LA CHOCULA ",
     "subtitle": "DE LA ABUELA INÉS",
-    "description": "Coma sano",
+    "description": "COME SANO",
     "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Pan Casero y La Chocula de la Abuela Inés es el lugar donde se unen la tradición y la salud. Ofrecemos una variedad de panes caseros y nuestro famoso chocula, elaborados con ingredientes naturales y siguiendo recetas familiares que han pasado de generación en generación.",
+        "description": "Pan Casero y La Chocula de la Abuela Inés es el lugar donde se unen la tradición y la salud. Ofrecemos una variedad de panes caseros y nuestra famosa chocula, elaborados con los siete granos: ingredientes naturales y siguiendo recetas familiares que han pasado de generación en generación.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Conócenos",
-        "description": "Aquí, cada bocado es un regreso a los sabores auténticos y caseros que tanto amas.",
+        "description": "Aquí, cada bocado es un regreso a los recuerdos son sabores auténticos y caseros que tanto amamos.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "3125404608 / 3228664063",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "kandaz1247@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@stella.vivas.7923",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Stella Vivas",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
